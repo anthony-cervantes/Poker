@@ -8,5 +8,7 @@ View a demo of the work in progress [here](http://dev.tableflippoker.com/)
 Setup Instructions:
 ===================
 
+```bash
 npm install
 npm app
+```
